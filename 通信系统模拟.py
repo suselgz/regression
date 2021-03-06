@@ -8,7 +8,7 @@ import pandas as pd
 from IPython.display import display
 import random
 
-initSnr=10
+initSnr=20
 size = 20
 def main(Msnr):
     # 解决set_title中文乱码
